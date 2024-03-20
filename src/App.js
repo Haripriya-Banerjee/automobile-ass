@@ -37,9 +37,9 @@ const my_automobile={
         height:"20%",
       },
     ],
-  imageUrl:"myPhoto.jpg",
-  width:"15%",
-  height:"15%",
+  imageUrl:"https://content.jdmagicbox.com/comp/def_content/car_repair_and_services_hyundai_authorised/default-car-repair-and-services-hyundai-authorised-4.jpg",
+  width:"20%",
+  height:"20%",
 }
 
 function App(){
